@@ -63,3 +63,41 @@ Server exposure analysis
 
 Academic demonstrations
 
+🌐 Open in Browser
+
+Access the web interface at:
+
+🔗 http://localhost:5173/
+
+📊 How It Works
+
+The user enters a target IP address or domain name through the web interface.
+
+The application validates the input and initiates an authorized Nmap scan based on the selected scan options.
+
+Nmap performs network scanning to identify:
+
+Open ports
+
+Running services
+
+Service versions
+
+Network protocols
+
+The backend processes the scan output and sends structured results to the frontend.
+
+Scan results are displayed in a clear, visual, and easy-to-understand format for analysis.
+
+🧠 Example Use Cases
+
+Performing authorized network reconnaissance
+
+Learning Nmap scanning techniques through a visual interface
+
+Analyzing server and network exposure
+
+Cybersecurity academic projects and labs
+
+Ethical hacking practice in controlled environments
+
